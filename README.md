@@ -33,7 +33,7 @@ Let us know your thoughts below. And good luck with development!
 
 | Shopify |
 | --- |
-| [![Notus Shopify](https://s3.amazonaws.com/creativetim_bucket/products/540/thumb/notus-shopify.jpg?)](http://demos.creative-tim.com/notus-shopify?ref=readme-ns)
+| [![Notus Shopify](https://s3.amazonaws.com/creativetim_bucket/products/540/thumb/notus-shopify.jpg?)](http://www.creative-tim.com/product/notus-shopify?ref=readme-ns)
 
 ## Demo
 
