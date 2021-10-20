@@ -1,6 +1,6 @@
 # [Notus Shopify](https://creativetim.myshopify.com/?ref=readme-ns) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/notus-shopify&text=Check%Notus%Shopify%202%20made%20by%20@CreativeTim%20#uikit%20#shopify%20#ecommerce%20#html%20https://www.creative-tim.com/product/notus-shopify)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-shopify.svg)](https://github.com/creativetimofficial/ct-notus-shopify/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-shopify.svg)](https://github.com/creativetimofficial/ct-notus-shopify/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-notus-shopify.svg)](https://github.com/creativetimofficial/ct-notus-shopify/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-notus-shopify.svg)](https://github.com/creativetimofficial/ct-notus-shopify/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/540/original/notus-shopify.jpg)
 
