@@ -53,7 +53,7 @@ Let us know your thoughts below. And good luck with development!
 6. You have set your new theme!
 
 ## Documentation
-The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-md2).
+The documentation for the Notus Shopify is hosted at our [website](https://www.creative-tim.com/blog/creative-tim/notus-shopify/?ref=readme-ns).
 
 ## Browser Support
 Shopify supports the latest two versions of all browsers, unless otherwise noted. Some browsers that are frequently used to access Shopify include the following:
@@ -69,7 +69,7 @@ Shopify supports the latest two versions of all browsers, unless otherwise noted
 ## Resources
 - [Live Preview](https://creativetim.myshopify.com?ref=readme-ns)
 - [Download Page](https://www.creative-tim.com/product/notus-shopify?ref=readme-ns)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-md2)
+- Documentation is [here](https://www.creative-tim.com/blog/creative-tim/notus-shopify/?ref=readme-ns)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ns)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ns)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-notus-shopify/issues)
