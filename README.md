@@ -70,8 +70,8 @@ Shopify supports the latest two versions of all browsers, unless otherwise noted
 - [Live Preview](https://creativetim.myshopify.com?ref=readme-ns)
 - [Download Page](https://www.creative-tim.com/product/notus-shopify?ref=readme-ns)
 - Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard?ref=readme-md2)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-md2)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-md2)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-ns)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-ns)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-notus-shopify/issues)
 
 ## Reporting Issues
@@ -92,13 +92,13 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-sudp) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-ns) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudp) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-ns) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudp) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-ns) (earn money)
 
 - [Bundles](https://www.creative-tim.com/bundles)
 
